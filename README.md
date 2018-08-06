@@ -14,7 +14,7 @@ IS HE/SHE YOUR SOULMAT? - An analysis of Online Dating in China based on www.bai
 ![Image text](https://raw.githubusercontent.com/TinaChen95/Online-Dating-Analysis/master/img/%E5%9B%BE%E7%89%872.png)
 ### 在线婚恋市场的挑战
 截止2016年底，中国超过10万用户的成熟在线交友网站的数量，已经超过20个
-![Image text](https://raw.githubusercontent.com/TinaChen95/Online-Dating-Analysis/master/img/%E5%9B%BE%E7%89%873.png)
+![Image text](https://raw.githubusercontent.com/TinaChen95/Online-Dating-Analysis/master/img/%E5%9B%BE%E7%89%873.jpg)
 
 ## 数据来源与获取
 百合网 （http://www.baihe.com/ ）是中国第一家通过网上实名进行交友和婚恋的服务商，已有超过9000万注册用户，在全国100个城市开设了实体店
