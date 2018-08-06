@@ -8,13 +8,13 @@ IS HE/SHE YOUR SOULMAT? - An analysis of Online Dating in China based on www.bai
 * 根据《中国统计年鉴》，15岁以上的单身人口已达到2.51亿人
 * 同时，离婚率的不断上升也使得单身人群占比增加
 * 婚恋市场潜力巨大！
-![Image text](Online-Dating-Analysis/img/图片1.png)
+![Image text](https://github.com/TinaChen95/Online-Dating-Analysis/img/图片1.png)
 ### 在线婚恋市场的机遇
 艾瑞咨询公司的一份报告证实，婚姻和爱情市场的规模稳步增长，2018将超过100亿元
-![Image text](Online-Dating-Analysis/img/图片2.png)
+![Image text](https://github.com/TinaChen95/Online-Dating-Analysis/img/图片2.png)
 ### 在线婚恋市场的挑战
 截止2016年底，中国超过10万用户的成熟在线交友网站的数量，已经超过20个
-![Image text](Online-Dating-Analysis/img/图片3.png)
+![Image text](https://github.com/TinaChen95/Online-Dating-Analysis/img/图片3.png)
 
 ## 数据来源与获取
 百合网 （http://www.baihe.com/ ）是中国第一家通过网上实名进行交友和婚恋的服务商，已有超过9000万注册用户，在全国100个城市开设了实体店
